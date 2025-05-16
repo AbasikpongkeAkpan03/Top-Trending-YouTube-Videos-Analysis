@@ -34,19 +34,19 @@ In the data cleaning phase, I performed the following tasks:
 - Total Dislikes: 1 Million
 
 
-###Insights and Findings
-####Top Performing Categories by Views and Likes:
+### Insights and Findings
+#### Top Performing Categories by Views and Likes:
 Music is the dominant category with over 5.6 billion views and more than 345K likes, making it the most popular and engaging genre.
 People & Blogs, Entertainment, and Comedy also perform strongly in both views and likes, highlighting their broad appeal.
 Gaming and Sports show significant engagement but lower overall views compared to the top categories.
 
-####Dislikes Distribution by Category:
+#### Dislikes Distribution by Category:
 Music and Entertainment receive the highest number of dislikes, likely due to higher viewership.
 Categories such as Science & Technology, Education, and Nonprofits receive relatively fewer dislikes, possibly reflecting niche or informative content with targeted audiences.
 
-####Publishing Trends Over the Years:
+#### Publishing Trends Over the Years:
 There was a massive spike in views and likes around 2019, suggesting a peak in viral content or platform growth.
 Recent years (2023–2024) show a resurgence in video performance, indicating increased engagement or improved content strategies.
 
-####Likes vs Views Relationship:
+#### Likes vs Views Relationship:
 While Music leads in both metrics, some categories like Education and Science & Technology show relatively fewer likes despite moderate views, hinting at passive consumption.
